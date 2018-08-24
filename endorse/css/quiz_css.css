@@ -28,3 +28,6 @@
   margin-right: auto;
   padding-top:100px;
 }
+.error {
+  display:none;
+}

@@ -1,0 +1,30 @@
+#contact-button {
+  /*display: none;*/
+}
+#quiz-responses {
+  display:none;
+}
+#sub-title {
+  display:none;
+}
+#fit-title {
+  font-size:63px;
+}
+.response-lhs {
+  display:none;
+}
+#question-1-response-brand-awareness, #question-1-response-direct-response, #question-2-response-male-only,  #question-2-response-female-only, #question-2-response-all-genders, #question-3-response-less-than-35, #question-3-response-greater-than-35, #question-4-response-local-regional, #question-4-response-national, #question-4-response-international, #question-5-response-0, #question-5-response-less-than-50, #question-5-response-50-to-500, #question-5-response-greater-than-500, #question-6-response-no, #question-6-response-yes-low-certainty, #question-6-response-yes-reasonable-certainty, #question-6-response-yes-high-certainty {
+  display:none;
+}
+.top-padding {
+  padding-top:25px;
+  font-weight:400;
+}
+#loading-wrapper {
+  display:none;
+  height:500px;
+  width:auto;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top:100px;
+}

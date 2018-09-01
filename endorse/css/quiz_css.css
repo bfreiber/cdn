@@ -32,6 +32,10 @@
   padding-bottom:0px !important;
 }
 @media (min-width: 768px) {
+  #testimonials {
+    margin-bottom:10px !important;
+    padding-bottom:10px !important;
+  }
   .small-button-text {
     font-size:12px;
   }

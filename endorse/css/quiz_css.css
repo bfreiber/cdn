@@ -45,6 +45,10 @@
   border-radius:6px !important;
 }
 
+.wizard > .content > .body label {
+  margin-bottom: 0.2em !important;
+}
+
 @media (min-width: 768px) {
   .btn-group-lg > .btn, .btn-lg {
     padding: 10px 16px !important;

@@ -26,7 +26,7 @@
     font-size: 62px !important;
     font-weight:!important;
   }
-  .wizard > .steps {
+.wizard > .steps, .wizard > .steps .number {
     font-size:13px !important;
   }
 }

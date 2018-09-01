@@ -37,7 +37,7 @@
     font-size: 63px !important;
     font-weight:!important;
   }
-  .jumbotron p {
+  #response-title {
     font-size: 21px !important;
     font-weight: 200 !important;
   }

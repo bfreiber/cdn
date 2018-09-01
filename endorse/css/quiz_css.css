@@ -32,7 +32,11 @@
   display:none;
 }
 
-
+.jumbotron .p, .jumbotron p {
+  font-size: 21px !important;
+  font-weight: 200 !important;
+  color:black !important;
+}
 @media (min-width: 768px) {
   .jumbotron .h1, .jumbotron h1 {
     font-size: 63px !important;

@@ -21,10 +21,12 @@
 .wizard > .steps, .wizard > .steps .number {
   font-size:8px !important;
 }
+.jumbotron .h1, .jumbotron h1 {
+  font-size: 36px !important;
+}
 @media (min-width: 768px) {
   .jumbotron .h1, .jumbotron h1 {
     font-size: 62px !important;
-    font-weight:!important;
   }
 .wizard > .steps, .wizard > .steps .number {
     font-size:13px !important;

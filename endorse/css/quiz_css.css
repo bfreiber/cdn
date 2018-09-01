@@ -31,8 +31,14 @@
 .error {
   display:none;
 }
+
 @media (min-width: 768px) {
   .jumbotron .h1, .jumbotron h1 {
     font-size: 63px !important;
+    font-weight:!important;
+  }
+  .jumbotron p {
+    font-size: 21px !important;
+    font-weight: 200 !important;
   }
 }

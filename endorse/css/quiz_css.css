@@ -24,7 +24,13 @@
 .jumbotron .h1, .jumbotron h1 {
   font-size: 36px !important;
 }
+.small-button-text {
+  font-size:6px;
+}
 @media (min-width: 768px) {
+  .small-button-text {
+    font-size:12px;
+  }
   .jumbotron .h1, .jumbotron h1 {
     font-size: 62px !important;
   }

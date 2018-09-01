@@ -1,7 +1,7 @@
 .jumbotron .p, .jumbotron p, #steps-subtitle {
   font-size: 21px !important;
   font-weight: 200 !important;
-  color:black !important;
+  color:#676a6c !important;
 }
 @media (min-width: 768px) {
   .jumbotron .h1, .jumbotron h1 {
@@ -10,6 +10,9 @@
   }
 }
 
+.btn-primary {
+  font-weight: 400 !important;
+}
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:hover, .btn-primary.active:focus {
   color: #fff !important;
   background-color: #286090 !important;

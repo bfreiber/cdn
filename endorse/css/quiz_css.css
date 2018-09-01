@@ -27,9 +27,9 @@
 .small-button-text {
   font-size:6px;
 }
-#discover {
-  margin-top:0px !important;
-  padding-top:0px !important;
+#testimonials {
+  margin-bottom:0px !important;
+  padding-bottom:0px !important;
 }
 @media (min-width: 768px) {
   .small-button-text {

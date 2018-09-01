@@ -10,6 +10,13 @@
   }
 }
 
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary, .btn-primary:active:focus, .btn-primary:active:hover, .btn-primary.active:hover, .btn-primary.active:focus {
+  color: #fff !important;
+  background-color: #286090 !important;
+  border-color: #204d74 !important;
+  }
+}
+
 
 #contact-button {
   /*display: none;*/

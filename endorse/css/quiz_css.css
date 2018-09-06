@@ -53,10 +53,12 @@
 }
 #steps-endorse-description, #response-endorse-description {
   font-size:10px !important;
+  padding-top:15px !important;
 }
 @media (min-width: 768px) {
   #steps-endorse-description, #response-endorse-description {
     font-size:12px !important;
+    padding-top:40px !important;
   }
   .ibox-content h2 {
     font-size: 24px !important;

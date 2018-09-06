@@ -51,11 +51,11 @@
 .ibox-content h2 {
   font-size: 18px !important;
 }
-#steps-endorse-description {
+#steps-endorse-description, #response-endorse-description {
   font-size:10px !important;
 }
 @media (min-width: 768px) {
-  #steps-endorse-description {
+  #steps-endorse-description, #response-endorse-description {
     font-size:12px !important;
   }
   .ibox-content h2 {
